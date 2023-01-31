@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **barseghyanartur/barseghyanartur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+tech: [medium](https://medium.com/@artur.barseghyan) | [stackoverflow](https://stackoverflow.com/users/2318839/artur-barseghyan?tab=profile) | [gists](https://gist.github.com/barseghyanartur/) | [blogspot](http://barseghyanartur.blogspot.com/)
+<br>
+photography: [website](http://foreverchild.info/) | [portfolio](http://delusionalinsanity.com/portfolio/) | [500px](https://500px.com/delusionalinsanity) | [instagram](https://www.instagram.com/delusionalinsanity/)
