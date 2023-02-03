@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-tech: [medium](https://medium.com/@artur.barseghyan) | [stackoverflow](https://stackoverflow.com/users/2318839/artur-barseghyan?tab=profile) | [gists](https://gist.github.com/barseghyanartur/) | [blogspot](http://barseghyanartur.blogspot.com/)
+tech: [medium](https://medium.com/@artur.barseghyan) | [stackoverflow](https://stackoverflow.com/users/2318839/artur-barseghyan?tab=profile) | [reddit](https://www.reddit.com/u/barseghyanartur) | [gists](https://gist.github.com/barseghyanartur/) | [blogspot](http://barseghyanartur.blogspot.com/)
 <br>
 photography: [website](http://foreverchild.info/) | [portfolio](http://delusionalinsanity.com/portfolio/) | [500px](https://500px.com/delusionalinsanity) | [instagram](https://www.instagram.com/delusionalinsanity/)
