@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 tech: [medium](https://medium.com/@artur.barseghyan) | [stackoverflow](https://stackoverflow.com/users/2318839/artur-barseghyan?tab=profile) | [reddit](https://www.reddit.com/u/barseghyanartur) | [gists](https://gist.github.com/barseghyanartur/) | [blogspot](http://barseghyanartur.blogspot.com/)
 <br>
-art: [website](http://foreverchild.info/) | [portfolio](http://delusionalinsanity.com/portfolio/) | [youpic](https://youpic.com/photographer/delusionalinsanity/) | [tumblr](https://delusionalinsanity.tumblr.com/) | [500px](https://500px.com/delusionalinsanity) | [instagram](https://www.instagram.com/delusionalinsanity/)
+art: [website](http://foreverchild.info/) | [portfolio](http://delusionalinsanity.com/portfolio/) | [tumblr](https://delusionalinsanity.tumblr.com/) | [500px](https://500px.com/delusionalinsanity) | [instagram](https://www.instagram.com/delusionalinsanity/)
