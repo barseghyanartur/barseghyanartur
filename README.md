@@ -21,5 +21,5 @@ tech: [medium](https://medium.com/@artur.barseghyan) | [stackoverflow](https://s
 art: [website](http://foreverchild.info/) | [portfolio](http://delusionalinsanity.com/portfolio/) | [tumblr](https://delusionalinsanity.tumblr.com/) | [500px](https://500px.com/delusionalinsanity) | [instagram](https://www.instagram.com/delusionalinsanity/)
 
 <div style="position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; border: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap;">
-  <a href="https://u8views.com/github/barseghyanartur"><img src="https://u8views.com/api/v1/github/profiles/4925587/views/day-week-month-total-count.svg"></a>
+  <a href="https://u8views.com/github/barseghyanartur"><img src="https://u8views.com/api/v1/github/profiles/4925587/views/day-week-month-total-count.svg" width="1" height="1"></a>
 </div>
