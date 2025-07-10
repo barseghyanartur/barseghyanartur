@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 tech: [medium](https://medium.com/@artur.barseghyan) | [stackoverflow](https://stackoverflow.com/users/2318839/artur-barseghyan?tab=profile) | [reddit](https://www.reddit.com/u/barseghyanartur) | [gists](https://gist.github.com/barseghyanartur/) | [blogspot](http://barseghyanartur.blogspot.com/)
 <br>
-art: [website](http://foreverchild.info/) | [portfolio](http://delusionalinsanity.com/portfolio/) | [tumblr](https://delusionalinsanity.tumblr.com/) | [500px](https://500px.com/delusionalinsanity) | [instagram](https://www.instagram.com/delusionalinsanity/)
+art: [website](http://foreverchild.info/) | [portfolio](http://delusionalinsanity.com/portfolio/) | [tumblr](https://delusionalinsanity.tumblr.com/) | [500px](https://500px.com/delusionalinsanity) | [instagram photography](https://www.instagram.com/delusionalinsanity/) | [instagram drawings](https://www.instagram.com/for.ever.child/)
 
 <div>
   <a href="https://u8views.com/github/barseghyanartur"><img src="https://u8views.com/api/v1/github/profiles/4925587/views/day-week-month-total-count.svg" width="0" height="0"></a>
